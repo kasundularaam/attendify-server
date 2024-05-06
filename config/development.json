@@ -1,0 +1,20 @@
+{
+  "database": {
+    "connectionString": "mongodb://localhost:27017/attendify"
+  },
+
+  "session": {
+    "secret": "d24ec48b-8384-4bc0-906e-692240098513",
+    "ttl": ""
+  },
+
+  "server": {
+    "port": 8000
+  },
+
+  "email": {
+    "host": "gmail",
+    "password": "walu ucyw cgfh tvqf",
+    "hostEmail": "kasundularavau@gmail.com"
+  }
+}
